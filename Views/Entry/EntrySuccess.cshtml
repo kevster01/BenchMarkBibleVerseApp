@@ -1,0 +1,49 @@
+﻿@model BenchmarkBibleVerseApp.Models.VerseEntryModel
+
+@{
+    ViewBag.Title = "EntrySuccess";
+}
+
+<h2>EntrySuccess</h2>
+
+<div>
+    <h4>VerseEntryModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BookName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChapterNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChapterNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VerseNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VerseNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VerseText)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VerseText)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Go To Home Page", "Index", "Home")
+</p>

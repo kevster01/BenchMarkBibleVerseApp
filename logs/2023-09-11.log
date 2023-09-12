@@ -1,0 +1,45 @@
+2023-09-11 15:05:09.4064 INFO  Entering HomeController
+2023-09-11 15:05:13.4995 INFO  Inside onButtonClick
+2023-09-11 15:05:21.9975 INFO  Inside onButtonClick
+2023-09-11 15:05:22.0763 INFO  Verse has been found!
+2023-09-11 15:05:31.0140 INFO  Entering HomeController
+2023-09-11 15:05:32.6409 INFO  Inside onButtonClick
+2023-09-11 15:05:45.8343 INFO  Inside onButtonClick
+2023-09-11 15:05:45.8844 INFO  Verse was not found!
+2023-09-11 15:05:48.5225 INFO  Entering SearchController
+2023-09-11 15:06:10.8766 INFO  Entering HomeController
+2023-09-11 15:06:13.4658 INFO  Inside onButtonClick
+2023-09-11 15:06:17.6872 INFO  Inside onButtonClick
+2023-09-11 15:06:17.7174 INFO  Verse has been found!
+2023-09-11 15:06:21.2070 INFO  Entering HomeController
+2023-09-11 15:06:24.0530 INFO  Inside onButtonClick
+2023-09-11 15:06:27.9436 INFO  Inside onButtonClick
+2023-09-11 15:06:27.9436 INFO  Verse has been found!
+2023-09-11 15:06:30.6923 INFO  Entering HomeController
+2023-09-11 16:04:34.7128 INFO  Entering HomeController
+2023-09-11 16:04:38.0258 INFO  Inside onButtonClick
+2023-09-11 16:04:53.5077 INFO  Inside onButtonClick
+2023-09-11 16:04:54.6767 INFO  Verse was not found!
+2023-09-11 16:04:57.3411 INFO  Entering SearchController
+2023-09-11 16:05:07.1687 INFO  Inside onButtonClick
+2023-09-11 16:05:07.1687 INFO  Verse has been found!
+2023-09-11 18:04:01.9449 INFO  Entering SearchController
+2023-09-11 18:04:35.5377 INFO  Inside onButtonClick
+2023-09-11 18:04:36.1719 INFO  Verse was not found!
+2023-09-11 19:38:05.7229 INFO  Entering HomeController
+2023-09-11 19:38:10.6848 INFO  Inside onButtonClick
+2023-09-11 19:38:18.2579 INFO  Inside onButtonClick
+2023-09-11 19:38:19.0124 INFO  Verse was not found!
+2023-09-11 19:38:20.7016 INFO  Entering SearchController
+2023-09-11 19:38:23.4639 INFO  Inside onButtonClick
+2023-09-11 19:38:23.4639 INFO  Verse has been found!
+2023-09-11 19:38:26.0436 INFO  Entering HomeController
+2023-09-11 19:38:28.6869 INFO  Entering SearchController
+2023-09-11 19:38:31.5499 INFO  Entering HomeController
+2023-09-11 19:38:32.8496 INFO  Inside onButtonClick
+2023-09-11 19:38:42.2401 INFO  Inside onButtonClick
+2023-09-11 19:38:42.2401 INFO  Verse was not found!
+2023-09-11 19:38:43.3700 INFO  Entering SearchController
+2023-09-11 19:38:46.7248 INFO  Inside onButtonClick
+2023-09-11 19:38:46.7248 INFO  Verse has been found!
+2023-09-11 19:38:52.5538 INFO  Entering HomeController

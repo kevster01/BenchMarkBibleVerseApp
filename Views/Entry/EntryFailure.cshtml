@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "EntryFailure";
+}
+
+<h2>EntryFailure</h2>
+
+<div id="mainPageContainer">
+    <div id="row">
+        <div>
+            Error!! Entry was not added to the Database! Please try again.
+        </div>       
+        <div>
+            @Html.ActionLink("Try Again?", "Index", "Entry")
+        </div>
+    </div>
+</div>
+

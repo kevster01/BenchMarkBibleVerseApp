@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="MainPageContainer">
+    <div class="row">
+        @using (Html.BeginForm("onButtonClick", "Home", FormMethod.Post))
+        {
+        <div>
+            <button type="submit" name="btnValue" value="Entry">
+                Entry
+            </button>
+            <button type="submit" name="btnValue" value="Search">
+                Search
+            </button>
+        </div>
+        }
+    </div>
+</div>

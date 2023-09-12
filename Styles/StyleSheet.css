@@ -1,0 +1,31 @@
+﻿html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+#mainPageContainer {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button, input[type="button"], input[type="submit"] {
+    color: black;
+    font: bold 84% 'trebuchet ms',helvetica,sans-serif;
+    background-color: lightgray;
+    border: 1px solid;
+    border-color: black;
+    width: 20vw;
+    height: 30px;
+    border-radius: 10px;
+    margin: 20px
+}
+
+    button:hover, input[type="submit"]:hover, input[type="button"]:hover {
+        background-color: darkgrey;
+        border: 2px solid;
+    }

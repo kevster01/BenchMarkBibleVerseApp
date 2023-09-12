@@ -1,0 +1,41 @@
+﻿@model BenchmarkBibleVerseApp.Models.VerseSearchModel
+
+@{
+    ViewBag.Title = "SearchFailure";
+}
+
+<h2>SearchFailure</h2>
+
+<div>
+    <h4>VerseSearchModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BookName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BookName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChapterNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChapterNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VerseNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VerseNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Try Again?", "Index", "Search")
+</p>
